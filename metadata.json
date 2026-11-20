@@ -1,0 +1,6 @@
+{
+  "name": "Vatsya Villa — Indore",
+  "description": "Your private 2 BHK luxury pool villa in Indore. 5,000 sq. ft. walled estate with a 17 × 11 ft private swimming pool, lush garden, and bespoke celebration decor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
